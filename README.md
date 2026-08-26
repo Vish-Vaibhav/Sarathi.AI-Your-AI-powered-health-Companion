@@ -428,12 +428,6 @@ We welcome contributions from the healthcare and technology community!
 - **Cost Reduction**: 40% reduction in unnecessary hospital visits
 - **Language Barrier**: Eliminate communication issues for 80% of rural patients
 
-## 📞 Contact
-
-### Team Contact
-
-- **Email**: <ckeerthankumar4@gmail.com>
-- **Phone**: +91 9591124158
 
 ### Acknowledgments
 
